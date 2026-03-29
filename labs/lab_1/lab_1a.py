@@ -6,7 +6,7 @@ with your name. Then, save the code, add it to the staging area, and commit it t
 """
 
 def main():
-    print("Hello World!")
+    print("Hello World and Planet!")
 
     name = "Saketh Tammisetti" # TODO: Insert your name between the double quotes
 
